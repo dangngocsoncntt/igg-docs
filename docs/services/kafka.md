@@ -1,4 +1,4 @@
-## Giới thiệu
+## Giới thiệu chung
 
 ## Cài đặt
 
