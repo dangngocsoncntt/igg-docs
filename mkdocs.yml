@@ -8,9 +8,11 @@ nav:
     - Micro Frontend: micro-frontend.md
     - Cài đặt: setup.md
   - Dịch vụ:
-    - Object Storage: services/object-storage.md
-    - Kafka: services/kafka.md
-    - Redis: services/redis.md
+    - Hướng dẫn tích hợp: intergration.md
+    - Tài liệu tích hợp SDK:
+      - Object Storage: services/object-storage.md
+      - Kafka: services/kafka.md
+      - Redis: services/redis.md
   - Hỗ trợ: support.md
   - Về chúng tôi: about.md
 
@@ -20,6 +22,7 @@ theme:
   favicon: assets/paper.png
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
     - navigation.top
     - search.suggest
