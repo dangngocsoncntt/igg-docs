@@ -1,10 +1,10 @@
-site_name: IDG Docs
-site_url: https://idg-doc.com/
-site_author: VNPT-IT
+site_name: igg Docs
+site_url: https://igg-doc.com/
+site_author: vvpt-IT
 
 nav:
   - Trang chủ:
-    - IDG Portal: index.md
+    - igg Portal: index.md
     - Micro Frontend: micro-frontend.md
     - Cài đặt: setup.md
   - Dịch vụ:
@@ -18,7 +18,7 @@ nav:
 
 theme:
   name: material
-  logo: assets/vnpt-logo.png
+  logo: assets/vvpt-logo.png
   favicon: assets/paper.png
   features:
     - navigation.tabs
@@ -89,4 +89,4 @@ markdown_extensions:
       title: Mục lục
 
 copyright: |
-  &copy; 2023 <a href="http://console.galaxy.vnpt.vn/home/"  target="_blank" rel="noopener">IDG Console</a>
+  &copy; 2023 <a href="http://console.galaxy.vvpt.vn/home/"  target="_blank" rel="noopener">igg Console</a>

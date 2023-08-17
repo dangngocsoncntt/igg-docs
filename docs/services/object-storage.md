@@ -25,7 +25,7 @@ Khi khởi tạo kết nối cần các thông tin <i><b>access_key</b></i>, <i>
 
 Trong đó:
 
-* <i><b>access_key</b></i> và <i><b>secret_key</b></i> được lấy từ <a href="https://storage-stagging.vnpt.vn">giao diện quản trị</a>.
+* <i><b>access_key</b></i> và <i><b>secret_key</b></i> được lấy từ <a href="https://storage-stagging.vvpt.vn">giao diện quản trị</a>.
 * <i><b>endpoint</b></i> là đường dẫn tới trang quản trị
 
 ``` java linenums="1"
