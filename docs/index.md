@@ -1,5 +1,9 @@
 # Chào mừng đến với igg Platform
 
+Chức năng mới 100 200
+
+# bổ sung chức năng mới 
+
 Nền tảng igg là nền tảng thúc đẩy chuyển đổi số, thúc đẩy quá trình hiện đại hóa, hợp nhất công nghệ ở vvpt IT. igg đang được xem như là nền tảng, là động cơ để làm các sản phẩm dịch vụ xuất sắc trở nên tốt hơn.
 
 <figure markdown>
